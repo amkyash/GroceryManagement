@@ -1,0 +1,280 @@
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\appsettings.json
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\GroceryApp.exe
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\GroceryApp.deps.json
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\GroceryApp.runtimeconfig.json
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\GroceryApp.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\GroceryApp.pdb
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.AssemblyReference.cache
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.AssemblyInfoInputs.cache
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.AssemblyInfo.cs
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.CoreCompileInputs.cache
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.GroceryApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.GroceryApp.props
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GroceryApp.props
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GroceryApp.props
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\scopedcss\bundle\GroceryApp.styles.css
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.CopyComplete
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\refint\GroceryApp.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.pdb
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.genruntimeconfig.cache
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\ref\GroceryApp.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ayushsrivastava03\Desktop\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\appsettings.json
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\GroceryApp.exe
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\GroceryApp.deps.json
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\GroceryApp.runtimeconfig.json
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\GroceryApp.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\GroceryApp.pdb
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.AssemblyReference.cache
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.AssemblyInfoInputs.cache
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.AssemblyInfo.cs
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.CoreCompileInputs.cache
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.GroceryApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.GroceryApp.props
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GroceryApp.props
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GroceryApp.props
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\scopedcss\bundle\GroceryApp.styles.css
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.CopyComplete
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\refint\GroceryApp.dll
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.pdb
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\GroceryApp.genruntimeconfig.cache
+C:\Users\amitkhare\Downloads\zip\exit test\GroceryApp\GroceryApp\obj\Debug\net6.0\ref\GroceryApp.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\appsettings.json
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\GroceryApp.exe
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\GroceryApp.deps.json
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\GroceryApp.runtimeconfig.json
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\GroceryApp.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\GroceryApp.pdb
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.AssemblyReference.cache
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.AssemblyInfoInputs.cache
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.AssemblyInfo.cs
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.CoreCompileInputs.cache
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.GroceryApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.GroceryApp.props
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GroceryApp.props
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GroceryApp.props
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\scopedcss\bundle\GroceryApp.styles.css
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.CopyComplete
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\refint\GroceryApp.dll
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.pdb
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.genruntimeconfig.cache
+C:\Users\amitkhare\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\ref\GroceryApp.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\appsettings.json
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\GroceryApp.exe
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\GroceryApp.deps.json
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\GroceryApp.runtimeconfig.json
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\GroceryApp.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\GroceryApp.pdb
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.AssemblyReference.cache
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.AssemblyInfoInputs.cache
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.AssemblyInfo.cs
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.CoreCompileInputs.cache
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.GroceryApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.build.GroceryApp.props
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GroceryApp.props
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GroceryApp.props
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\scopedcss\bundle\GroceryApp.styles.css
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.csproj.CopyComplete
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\refint\GroceryApp.dll
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.pdb
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\GroceryApp.genruntimeconfig.cache
+C:\Users\amitkhare\OneDrive - Nagarro\Desktop\AmitKhare_3201368_FinalExitTest2\groceryBackend\GroceryApp\obj\Debug\net6.0\ref\GroceryApp.dll

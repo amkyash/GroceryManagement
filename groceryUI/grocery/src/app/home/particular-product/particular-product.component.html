@@ -1,0 +1,28 @@
+<div class="container">
+    <div class="row ">
+        <div class="col">
+            <img src={{_content.productImageLink}} style="width:90%; height:90% ;border-radius: 5%;margin-top:5px" alt="">
+        </div>
+        <div class="col ">
+            <h3 style="margin-top:25px">{{_content.productName}}</h3>
+            <h4><span>&#8377;</span>{{_content.productPrice}}</h4>
+            <h5 style="color:blue">Discount: {{_content.productDiscount}}%</h5>
+            <div class="col-4"><button type="button" class="btn btn-primary btn-lg" *ngIf="_content.productCount>0" (click)="AddToCart(_content.id)">Add To Cart</button>
+
+                <button class="btn btn-outline-danger btn-lg" *ngIf="_content.productCount<=0">Out Of Stock</button>
+            </div>
+        </div>
+        <div class="col">
+            <span style="color:rgb(244, 99, 99); font-size: 30px;margin-top:25px">&#x2665;</span>
+            <b><p>Quantity left = {{_countVal}}</p></b>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <p><b>Product Description:</b> {{_content.productDescription}}</p>
+        </div>
+        <div class="col-6">
+        </div>
+    </div>
+    <div class="col-4"></div>

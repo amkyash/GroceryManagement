@@ -1,0 +1,8 @@
+.table-bordered thead th{
+    text-align:center;
+}
+
+.table-bordered tbody td{
+    vertical-align: middle;
+    text-align: center;
+}

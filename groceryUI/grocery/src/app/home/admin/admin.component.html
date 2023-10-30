@@ -1,0 +1,18 @@
+<div class="cotainer" style="margin:3% auto; width:95%">
+  <input type="submit" value="Add Product" class="btn btn-primary" (click)="AdminAddProduct()">
+  <div class="row" >
+      <div class="col-md-3" style="margin-top:3%" *ngFor="let item of data">
+          <div class="card shadow p-3 mb-5 bg-body-tertiary rounded" style="width: 18rem;">
+              <a routerLink="/details/{{item.id}}"><img class="card-img-top" src={{item.productImageLink}} alt=""></a>
+              <div class="card-body">
+                  <h5 class="card-title">
+                      <a style="color:black">{{item.productName}}</a></h5>
+                      <p class="card-text">
+                          {{item.productDescription}}
+                       </p>
+                       <h5><span>&#8377;</span><i>{{item.productPrice}}</i></h5>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>

@@ -1,0 +1,38 @@
+<div class="container" style="width:50%">
+
+    <h4 style="color:red" *ngIf="_displayMsg==true">Invalid Credentials</h4>
+    <form [formGroup]="loginform" class="border border-dark p-3" style="background-color: white;" (ngSubmit)="LoginSubmitted()">
+
+        <div class="row g-0">
+            <div class="col text-center p-2 mb-3 bg-success">
+                <span class="fs-3">Login</span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col mb-3">
+                <label for="email" class="form-label">Email address</label> <input type="email" class="form-control" id="email" formControlName="email">
+                <div class="form-text text-danger" *ngIf="Email.errors?.['required'] && (Email.touched || Email.dirty)">
+                    *email required</div>
+            </div>
+            <div class="form-text text-danger" *ngIf="Email.errors?.['email'] && (Email.touched || Email.dirty)">
+                *email invalid</div>
+        </div>
+
+        <div class="row">
+            <div class="col mb-3"> <label for="pwd" class="form-label">Password</label>
+                <input type="password" class="form-control" id="pwd" formControlName="pwd">
+                <div class="form-text text-danger" *ngIf="PWD.errors?.['required'] && (PWD.touched || PWD.dirty)">
+                    *password required</div>
+                <div class="form-text text-danger" *ngIf="PWD.errors?.['minlength'] || PWD.errors?.['maxlength'] ">
+                    password not of valid length </div>
+            </div>
+        </div>
+        <div class="col-6 ofset-3" style="margin-left: auto; margin-right:auto">
+            <div class="d-grid">
+                <button class="btn btn-primary bg-success" [disabled]="loginform.invalid">Submit</button>
+            </div>
+        </div>
+        <p>Skip to <a routerLink="/register">SignUp</a> ?</p>
+    </form>
+</div>

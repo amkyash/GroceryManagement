@@ -1,0 +1,40 @@
+<nav class="navbar navbar-expand-lg bg-success">
+    <div class="container-fluid">
+        <a class="navbar-brand" routerLink="/home"><b>Grocery Store</b></a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" routerLink="/home">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="/myorder" *ngIf="CheckLogin() && CheckAdmin()==false"><b>My Order</b></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="/cart" *ngIf="CheckLogin() && CheckAdmin()==false">Cart</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="/admin" *ngIf="CheckLogin() && CheckAdmin()">Admin</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+             Category
+            </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" routerLink="/category/Vegetable">Vegetable</a></li>
+                        <li><a class="dropdown-item" routerLink="/category/Fruites">Fruits</a></li>
+                        <li><a class="dropdown-item" routerLink="/category/PackedFood">Packed Food </a></li>
+                        <li><a class="dropdown-item" routerLink="/category/Drinks">Drinks </a></li>
+                    </ul>
+                </li>
+            </ul>
+            <form class="d-flex" role="search">
+                <button class="btn btn-secondary btn-sm" style="margin-right:4px" (click)="UserLoginFunction()" *ngIf="!CheckLogin()">LogIn</button>
+                <button class="btn btn-secondary btn-sm" style="margin-right:4px" (click)="UserLogoutFunction()" *ngIf="CheckLogin()">LogOut</button>
+                <button class="btn btn-secondary btn-sm" (click)="UserRegisterFunction()" *ngIf="!CheckLogin()">SignUp</button>
+            </form>
+        </div>
+    </div>
+</nav>

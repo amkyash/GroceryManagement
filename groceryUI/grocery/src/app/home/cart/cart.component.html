@@ -1,0 +1,31 @@
+<h3 class="text-center">My Cart</h3>
+<hr><br>
+<div class="container" style="width: 90%">
+    <table class="table table-bordered mt-4">
+        <thead class="table-warning">
+            <tr>
+                <th scope="col">Product</th>
+                <th scope="col">Description</th>
+                <th scope="col">Price</th>
+                <th scope="col">Actions</th>
+                <th scope="col">Place Order</th>
+            </tr>
+        </thead>
+        <tbody class="table-light ">
+            <tr *ngFor="let item of _productList">
+                <td class="text-center">{{item.productName}}</td>
+                <td>{{item.productDescription}}</td>
+                <td><span>&#8377;</span>{{item.productPrice}}</td>
+                <td>
+                    <button class="btn btn-sm btn-primary" routerLink="/details/{{item.id}}">MoreDetails</button>
+                    <button class="btn btn-sm btn-danger" style="margin-left:2px ;" (click)="removeItemFromCart(item.id)">remove Item</button>
+                </td>
+                <td>
+                    <div>
+                        <button class="btn btn-sm btn-primary" (click)="placeOrder()">BuyNow</button>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
